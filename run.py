@@ -1,2 +1,2 @@
 import test
-test.____Main___()
+test.__Main_()
