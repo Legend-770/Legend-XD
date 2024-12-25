@@ -1,2 +1,2 @@
-import test
-test.__Main_()
+import file
+file.__Main_()
