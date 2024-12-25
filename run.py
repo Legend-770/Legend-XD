@@ -1,2 +1,2 @@
 import file
-file.__Main_()
+file.____Main___()
